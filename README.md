@@ -2,7 +2,7 @@
 
 <br/>
 
-✨ I'm passionate about **`Front End Development`**, content creation and continuous learning
+✨ I'm passionate about **`Front End Development`**, content creation and continuous learning.
 
 ✨ All of my web projects are built from scratch, by me - from planning and designing, to coding and testing. I enjoy the whole process!
 
