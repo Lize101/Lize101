@@ -1,8 +1,8 @@
-### Hi! 👋 Welcome to Lize101!
+<h1 align="center">Hi! 👋 Welcome to Lize101!</h1>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AF1238&width=435&lines=Front+End+Developer;Content+Creator;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=AF1238&width=990&lines=Front+End+Developer;Content+Creator;Continuous+Learner)](https://git.io/typing-svg)
 
 ✨ My web projects are built from scratch, by me - from planning and designing, to **`coding`** and testing. I enjoy the whole process!
 
@@ -10,19 +10,19 @@
 
 <br/>
 
----
-
-### Languages and Tools
 
 
-<img align="left" width="50px" style="padding-right: 10px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" width="50px" style="padding-right: 10px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" width="50px" style="padding-right: 10px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" width="50px" style="padding-right: 10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img align="left" width="50px" style="padding-right: 10px;" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" width="50px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
-<img align="left" width="50px" style="padding-right: 10px;" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
+<h1 align="center"> Languages and Tools </h1>
+<br/>
+<div align="center">
+<img width="50px" style="padding-right: 30px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img width="50px" style="padding-right: 30px;" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img width="50px" style="padding-right: 30px;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="50px" style="padding-right: 30px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img width="50px" style="padding-right: 30px;" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img width="50px" style="padding-right: 30px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
+<img width="50px" style="padding-right: 30px;" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
           
           
 
