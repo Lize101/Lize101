@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center"> Languages and Tools </h1>
+<h1 align="center">Tools and Technologies</h1>
 <br/>
 <div align="center">
 <img width="50px" style="padding-right: 30px;" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
