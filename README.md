@@ -6,7 +6,7 @@
 
 ✨ My web projects are built from scratch, by me - from planning, research and designing, to **`coding`** and testing. I enjoy the whole process!
 
-✨ Looking to collaborate on HTML, CSS, JavaScript and ReactJS projects. Let's connect!
+✨ Looking to collaborate on HTML, CSS, SASS, JavaScript, TypeScript and ReactJS projects. Let's connect!
 
 <br/>
 
