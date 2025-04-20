@@ -2,11 +2,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=AF1238&width=990&lines=Front+End+Developer;Content+Creator;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=AF1238&width=990&lines=Frontend+Developer;Content+Creator;Continuous+Learner)](https://git.io/typing-svg)
 
 ✨ My web projects are built from scratch, by me - from planning, research and designing, to **`coding`** and testing. I enjoy the whole process!
 
-✨ Looking to collaborate on HTML, CSS, SASS, JavaScript, TypeScript and ReactJS projects. Let's connect!
+✨ Looking to collaborate on HTML, CSS, SASS, JavaScript, React.js and Next.js projects. Let's connect!
 
 <br/>
 
